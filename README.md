@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manikandan V
 
-<!--
-**manikandan-analytics/manikandan-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 8+ years in fintech and lending. Currently building credit risk and scorecard monitoring systems.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Credit risk analytics: scorecard monitoring, drift detection, regulatory reporting
+- Analytics engineering: BigQuery, SQL, Power BI, Python
+- Production data pipelines: Airflow, GCS, automated monitoring
+
+## Tech stack
+
+SQL, BigQuery, Power BI, Power Automate, Python, Airflow
+
+## Currently working on
+
+- Credit risk monitoring framework (public datasets for drift detection)
+- Feature engineering for lending models
+- Analytics engineering patterns and best practices
